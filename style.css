@@ -1,0 +1,50 @@
+body{
+  background: rgb(10,10,10);
+  color: black;
+  font-size: 20px;
+  font-family: arial;
+  text-align: center; 	
+}
+
+h1{
+  font-family: Courier;
+  color: white;
+  font-weight: lighter;
+  font-size: 80px;
+  background-image : url("images/beach.jpg");
+  padding: 80px;
+}
+
+h2 {
+  font-family: Courier;
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+
+h3 {
+  font-family: Courier;
+  color: white
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+
+p {
+  color:black;
+  font-family: Courier;
+}
+
+a {
+  color:white;
+  font-family: Courier;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  font-family: Courier;
+}
+
+
